@@ -84,5 +84,5 @@ This project was developed as a learning exercise in:
 ## Author
 
 **Gabriel Pires Pinheiro Correa**  
-Software Engineering Student — UniVag, 2025  
+Software Engineering Student 
 [LinkedIn](https://linkedin.com/in/gabriel-correa11) · [GitHub](https://github.com/gabriel-correa11)
