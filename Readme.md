@@ -2,7 +2,7 @@
 
 An interactive data analytics dashboard exploring the correlation between **climate variables** and the stock performance of **SLCE3 (SLC Agrícola)** on the Brazilian Stock Exchange (B3).
 
-Built as part of a **Data Engineering & Business Intelligence academic project** at [UniVag](https://univag.edu.br) — 6th semester, Software Engineering.
+Built as part of a **Data Engineering & Business Intelligence academic project— 6th semester, Software Engineering.
 
 ---
 
